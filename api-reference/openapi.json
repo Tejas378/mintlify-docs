@@ -88,8 +88,8 @@
         }
       }
     },
-    "api/org/members": {
-      "delete": {
+    "/api/org/members": {
+      "get": {
         "description": "Deletes a single plant based on the ID supplied",
         "parameters": [
          
